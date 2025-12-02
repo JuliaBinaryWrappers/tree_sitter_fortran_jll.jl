@@ -1,0 +1,160 @@
+[[tree_sitter_fortran]]
+arch = "aarch64"
+git-tree-sha1 = "c66ef34430b698e63d7a10d20d5b7d7c904c0577"
+os = "macos"
+
+    [[tree_sitter_fortran.download]]
+    sha256 = "ac5e5055305f6d7732276ab9bee240497a7072db5d2e0984543f88cbfaf2c195"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_fortran_jll.jl/releases/download/tree_sitter_fortran-v0.5.1+0/tree_sitter_fortran.v0.5.1.aarch64-apple-darwin.tar.gz"
+[[tree_sitter_fortran]]
+arch = "aarch64"
+git-tree-sha1 = "e1a6660f9b735cfbd4a7e5447a01699e52b42064"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_fortran.download]]
+    sha256 = "28c44cecb75f23629a68a194be29e299787c9d8936927d917740c6ac0b6907f1"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_fortran_jll.jl/releases/download/tree_sitter_fortran-v0.5.1+0/tree_sitter_fortran.v0.5.1.aarch64-linux-gnu.tar.gz"
+[[tree_sitter_fortran]]
+arch = "aarch64"
+git-tree-sha1 = "bd74c42973b918316e920623c53cbd389918cb36"
+libc = "musl"
+os = "linux"
+
+    [[tree_sitter_fortran.download]]
+    sha256 = "a65be2fba30995d215b9c282d69dd8117aa8642a594150110cf9eb812bddbf0d"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_fortran_jll.jl/releases/download/tree_sitter_fortran-v0.5.1+0/tree_sitter_fortran.v0.5.1.aarch64-linux-musl.tar.gz"
+[[tree_sitter_fortran]]
+arch = "aarch64"
+git-tree-sha1 = "37e7d3acff9c2b035dea2f8d0d152b8d2a3ce0a0"
+os = "freebsd"
+
+    [[tree_sitter_fortran.download]]
+    sha256 = "0d5ad6d7799b2f8a88bc88d5d77720a39e1af796d0681edae86cb867defcef87"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_fortran_jll.jl/releases/download/tree_sitter_fortran-v0.5.1+0/tree_sitter_fortran.v0.5.1.aarch64-unknown-freebsd.tar.gz"
+[[tree_sitter_fortran]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "49713cf8bcd59c255d18e9ac5227f3392ddb336b"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_fortran.download]]
+    sha256 = "bb9098c04e4ee91071f881228320aee3743fd93e797a75ce58824dc54cfcad83"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_fortran_jll.jl/releases/download/tree_sitter_fortran-v0.5.1+0/tree_sitter_fortran.v0.5.1.armv6l-linux-gnueabihf.tar.gz"
+[[tree_sitter_fortran]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "c496ad592973460b8c416e41e7e0889004fb675f"
+libc = "musl"
+os = "linux"
+
+    [[tree_sitter_fortran.download]]
+    sha256 = "fd6d4c469afa326da622346d1681591f7262ede3a8ac97d807b7236a94215e26"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_fortran_jll.jl/releases/download/tree_sitter_fortran-v0.5.1+0/tree_sitter_fortran.v0.5.1.armv6l-linux-musleabihf.tar.gz"
+[[tree_sitter_fortran]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "77f3cd7dd9961564810bf2f803ed8b33c80b26de"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_fortran.download]]
+    sha256 = "f531258959c6096a995c08ad81241d90d454e164e9a5dea20b6b4abff653c885"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_fortran_jll.jl/releases/download/tree_sitter_fortran-v0.5.1+0/tree_sitter_fortran.v0.5.1.armv7l-linux-gnueabihf.tar.gz"
+[[tree_sitter_fortran]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "635853aefa5d7cd5eb6ff8130a2cee1f8ed5c726"
+libc = "musl"
+os = "linux"
+
+    [[tree_sitter_fortran.download]]
+    sha256 = "d9c5eaeaa8a0d6ae7ee2c84d63e9521974e4b7f191e4e6380949354846793c19"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_fortran_jll.jl/releases/download/tree_sitter_fortran-v0.5.1+0/tree_sitter_fortran.v0.5.1.armv7l-linux-musleabihf.tar.gz"
+[[tree_sitter_fortran]]
+arch = "i686"
+git-tree-sha1 = "f92f0c0fd25c5fda4a02323ae75c97044fb9d67b"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_fortran.download]]
+    sha256 = "93ee467e3962ef359a5151eb7e6c165f65e0f2ed386d6a28e5079faf0404f492"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_fortran_jll.jl/releases/download/tree_sitter_fortran-v0.5.1+0/tree_sitter_fortran.v0.5.1.i686-linux-gnu.tar.gz"
+[[tree_sitter_fortran]]
+arch = "i686"
+git-tree-sha1 = "6313cd62353cc2e760b08ef81f975a19f706d80c"
+libc = "musl"
+os = "linux"
+
+    [[tree_sitter_fortran.download]]
+    sha256 = "71f70ba35395a5fa8a75eb71aaf02a564a1a0ed0af308236f13353e649df9358"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_fortran_jll.jl/releases/download/tree_sitter_fortran-v0.5.1+0/tree_sitter_fortran.v0.5.1.i686-linux-musl.tar.gz"
+[[tree_sitter_fortran]]
+arch = "i686"
+git-tree-sha1 = "688509928aed2f49e7b7c1d01b02cb03137050b3"
+os = "windows"
+
+    [[tree_sitter_fortran.download]]
+    sha256 = "2380a1eb443788aaf528df453735adafb4d3c1f2174c45b9e3d9196d1da4622f"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_fortran_jll.jl/releases/download/tree_sitter_fortran-v0.5.1+0/tree_sitter_fortran.v0.5.1.i686-w64-mingw32.tar.gz"
+[[tree_sitter_fortran]]
+arch = "powerpc64le"
+git-tree-sha1 = "7cc4b63b02454d750b28e8f84ed5772778a44ac9"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_fortran.download]]
+    sha256 = "e1e1a81227b42a4694a4c092fc1c09522aab153087fa272ea822c822b844b330"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_fortran_jll.jl/releases/download/tree_sitter_fortran-v0.5.1+0/tree_sitter_fortran.v0.5.1.powerpc64le-linux-gnu.tar.gz"
+[[tree_sitter_fortran]]
+arch = "riscv64"
+git-tree-sha1 = "b5952b9b7aa3d74b40c22966f66b17f3855be435"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_fortran.download]]
+    sha256 = "9ea84a3fd11759a17f5be9dd117d833cb6ef3690e22702b0bad9b2f02563f0ca"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_fortran_jll.jl/releases/download/tree_sitter_fortran-v0.5.1+0/tree_sitter_fortran.v0.5.1.riscv64-linux-gnu.tar.gz"
+[[tree_sitter_fortran]]
+arch = "x86_64"
+git-tree-sha1 = "934fd8c05bfeb77ab8466fcd2e469185d03732b4"
+os = "macos"
+
+    [[tree_sitter_fortran.download]]
+    sha256 = "2ac94682a22a51e9f5d9a97e54d8be97916900d1966f5836caa029305fec1a09"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_fortran_jll.jl/releases/download/tree_sitter_fortran-v0.5.1+0/tree_sitter_fortran.v0.5.1.x86_64-apple-darwin.tar.gz"
+[[tree_sitter_fortran]]
+arch = "x86_64"
+git-tree-sha1 = "d130ec19787a9c76b73dce3ec88c5bab893b0887"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_fortran.download]]
+    sha256 = "7a0955e4c6c8ca738fa5ffe6f6608b038c816a92017f30d15fbd88cab6056ec7"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_fortran_jll.jl/releases/download/tree_sitter_fortran-v0.5.1+0/tree_sitter_fortran.v0.5.1.x86_64-linux-gnu.tar.gz"
+[[tree_sitter_fortran]]
+arch = "x86_64"
+git-tree-sha1 = "1dbdb8873600206da4f53d270283104f6f748b4b"
+libc = "musl"
+os = "linux"
+
+    [[tree_sitter_fortran.download]]
+    sha256 = "d3f63462e94aec8d207d664756752494b530f6e4d8adf721129c17ef584244ea"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_fortran_jll.jl/releases/download/tree_sitter_fortran-v0.5.1+0/tree_sitter_fortran.v0.5.1.x86_64-linux-musl.tar.gz"
+[[tree_sitter_fortran]]
+arch = "x86_64"
+git-tree-sha1 = "4f60feb66b0bdcc633a6a9a0b2079108734afb93"
+os = "freebsd"
+
+    [[tree_sitter_fortran.download]]
+    sha256 = "00d8b1c1d24c1154289d498742c7d11c5cc16fe1fef93955888ca9ca62795eee"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_fortran_jll.jl/releases/download/tree_sitter_fortran-v0.5.1+0/tree_sitter_fortran.v0.5.1.x86_64-unknown-freebsd.tar.gz"
+[[tree_sitter_fortran]]
+arch = "x86_64"
+git-tree-sha1 = "e9905dccbb956cfcba6c8d72d25b8f928c8c4a14"
+os = "windows"
+
+    [[tree_sitter_fortran.download]]
+    sha256 = "bbc64f79f4a8c60e978e36b0669761eb6ca164046c88c9bdf9c2b2b968f1a2d8"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_fortran_jll.jl/releases/download/tree_sitter_fortran-v0.5.1+0/tree_sitter_fortran.v0.5.1.x86_64-w64-mingw32.tar.gz"
