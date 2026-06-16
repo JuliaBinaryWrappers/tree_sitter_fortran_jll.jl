@@ -1,6 +1,6 @@
 name = "tree_sitter_fortran_jll"
 uuid = "f370be48-5072-5a80-a2be-a91280f1992d"
-version = "0.5.1+0"
+version = "0.6.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
